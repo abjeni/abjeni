@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abjeni
+- 👋 Hi, I’m @asbjørn salhus
 - 👀 I’m interested in graphics
-- 🌱 I’m currently learning vulkan basics
+- 🌱 I’m currently learning nothing
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
