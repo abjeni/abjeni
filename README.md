@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asbjørn salhus
-- 👀 I’m interested in graphics
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 <!---
 - 💞️ I’m looking to collaborate on ...
