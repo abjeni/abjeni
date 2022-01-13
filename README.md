@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asbjørn salhus
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in raspberry pi
+- 🌱 I’m currently learning dma
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
